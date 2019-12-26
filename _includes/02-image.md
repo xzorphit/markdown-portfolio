@@ -2,5 +2,5 @@
 
 Also, the prepopulated text from the course
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 
